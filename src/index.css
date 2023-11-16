@@ -84,7 +84,7 @@ body {
     display: flex;
     align-items: center;
     background-color: var(--grey-200);
-    color: var(--primary);
+    /* color: var(--primary); */
     cursor: pointer;
     border-radius: var(--radii);
     overflow: hidden;
